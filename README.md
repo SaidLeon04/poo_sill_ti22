@@ -6,3 +6,4 @@
 |2|programa1.py|Comentarios multilinea, unilinea y concatenar dos cadenas|
 |3|programa2.py|.format para cambiar tipos de variables|
 |4|programa3.py|operaciones aritmeticas dentro de str.format|
+|5|programa4.py|casting para cambiar un string a int|
