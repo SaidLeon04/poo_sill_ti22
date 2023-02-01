@@ -9,3 +9,4 @@
 |5|programa4.py|casting para cambiar un string a int
 |6|programa5.py|calcular el área y perimetro de cualquier triángulo (sin if)|
 |7|programa6.py|calcular el área y perímetro de un círculo y un cuadrado|
+|8|programa7.py|comparar 2 números entetros e imprimir el número mayor|
