@@ -11,3 +11,5 @@
 |7|programa6.py|calcular el área y perímetro de un círculo y un cuadrado|
 |8|programa7.py|comparar 2 números entetros e imprimir el número mayor|
 |9|programa8.py|11 maneras diferentes de comparar 2 números usando if, elif y else|
+|10|programa9.py|Usar un metodo para comprar dos números e imprimir el mayor|
+|11|programa10.py|Usar typing el los parametros del método para declarar el tipo de dato que son|
