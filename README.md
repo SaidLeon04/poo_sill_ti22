@@ -13,3 +13,6 @@
 |9|programa8.py|11 maneras diferentes de comparar 2 números usando if, elif y else|
 |10|programa9.py|Usar un metodo para comprar dos números e imprimir el mayor|
 |11|programa10.py|Usar typing el los parametros del método para declarar el tipo de dato que son|
+|12|persona.py|Crear una clase llamada Persona para crear objetos de esa clase|
+|13|alumno.py|Crear una clase llamada Alumno para crear objetos de esa clase|
+|14|
