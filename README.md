@@ -15,4 +15,5 @@
 |11|programa10.py|Usar typing el los parametros del método para declarar el tipo de dato que son|
 |12|persona.py|Crear una clase llamada Persona para crear objetos de esa clase|
 |13|alumno.py|Crear una clase llamada Alumno para crear objetos de esa clase|
-|14|
+|14|herencia.py|Crear una clase persona y una clase alumno que hereda los atributos y metodos de la clase persona|
+|15|poo.py|Crear una clase persona y una clase alumno que hereda los atributos y metodos de la clase persona|
