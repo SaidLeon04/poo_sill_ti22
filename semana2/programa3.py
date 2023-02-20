@@ -10,4 +10,4 @@ print(variable1 + variable2)  #  suma de dos variables
 print("{} + {} = {}" .format(variable1, variable2 , variable1+variable2))  #  formatear las variables cambiando su tipo a string, hace la suma e imprime la operación completa
 print("{} - {} = {}" .format(variable1, variable2 , variable1-variable2)) # resta muestra la operación completa
 print("{} = {} * {}" .format(variable1*variable2, variable1, variable2)) # multiplicación que muestra la operación completa
-print("El resultado de dividir {} / {} es {}" .format(variable1, variable2, variable1/variable2)) # división que meustra una cadena para describir la operación
+print("El resultado de dividir {} / {} es {}" .format(variable1, variable2, variable1/variable2)) # división que muestra una cadena para describir la operación

@@ -2,7 +2,8 @@
     programa8.py
     Nombre: Said Isaac León Lara
     Fecha: 07/03/2023
-    Descripción: 11 maneras diferentes de comparar 2 números usando if, elif y else, para impirmir el múmero mayor o None en caso de que no haya
+    Descripción: 11 maneras diferentes de comparar 2 números usando if, 
+    elif y else, para impirmir el múmero mayor o None en caso de que no haya
 """
 
 def mayor(n1,n2): # declaración de una función llamada mayor que tiene como parametros las variables n1 y n2
@@ -85,7 +86,7 @@ def mayor(n1,n2): # declaración de una función llamada mayor que tiene como pa
     # versión 10 de como comparar dos números e impirmir el mayor
     if n1 == n2: # compara n1 igual que n2
         print(None) # imprime None 
-    elif n1 < n2 # compara n1 menor que n2
+    elif n1 < n2: # compara n1 menor que n2
         print(n2) # imprime n2
     else:
         print(n1) # imprime n1

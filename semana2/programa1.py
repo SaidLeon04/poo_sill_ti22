@@ -7,4 +7,4 @@
 variable1 = "Hola"  #  variable para almacenar una cadena de carácteres 
 variable2 = " mundo python"  #  variable para almacenar una cadena de carácteres
 
-print (variable1 + variable2)
+print (variable1 + variable2) # concatena las dos variables

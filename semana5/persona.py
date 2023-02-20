@@ -2,7 +2,8 @@
     persona.py
     Nombre: Said Isaac León Lara
     Fecha: 13/02/2023
-    Descripción: Crear una clase llamada Persona con dos variable o atributos que obtendran un valor con la función set y lo devolvera con la función get
+    Descripción: Crear una clase llamada Persona con dos 
+    variable o atributos que obtendran un valor con la función set y lo devolvera con la función get
 """
 
 class Persona: # Crea la clase Persona

@@ -31,10 +31,4 @@ class Coordinador(Persona): # Crea la clase Coordinador que hereda de la clase P
         print("Coordinador") # Imprime el texto Coordinador
 
 objeto_profesor = Coordinador() # Crea un objeto de la clase Coordinador
-
-
-
-
-            
-
-            
+       
